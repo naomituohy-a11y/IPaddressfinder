@@ -1,0 +1,3 @@
+def resolve_domains(df: pd.DataFrame) -> pd.DataFrame:
+    ...
+    return out
